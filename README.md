@@ -1,2 +1,2 @@
-# vue-myInfo
-对vue2.0的查漏补缺笔记
+# vue-note
+对vue2.0知识点的查漏补缺笔记
